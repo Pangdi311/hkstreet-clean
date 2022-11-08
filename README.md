@@ -1,2 +1,2 @@
 # hkstreet-clean
- the cleaned version
+ the 'clean' version
